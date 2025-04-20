@@ -31,7 +31,7 @@ Install required packages:
 
 This project uses real-time train data from the NS Reisinformatie API.
 
-A personal API key is included in the submitted version of this project.
+A personal API key is included in the appendix of the submitted version of this project.
 Normally, this key would be considered private.
 However, because registering for the API can be confusing or unavailable at times, I’ve chosen to leave my personal key in the code to ensure the project runs smoothly for reviewers.
 
