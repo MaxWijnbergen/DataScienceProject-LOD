@@ -1,0 +1,177 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://delamar.nl/voorstellingen/a-night-out-with-april> rdfs:label "A Night out with April| Een spelshow met variété en prijzen! | DeLaMar" ;
+    ns1:duration "2 uur en 30 minuten" ;
+    ns1:startDate "2025-05-23T20:30" .
+
+<https://delamar.nl/voorstellingen/ashton-brothers> rdfs:label "Ashton Brothers | Veelgeprezen show Brothers | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-05-17T20:00",
+        "2025-05-18T14:00" .
+
+<https://delamar.nl/voorstellingen/bv-vastgoed> rdfs:label "BV Vastgoed | Toneelgroep Maastricht | DeLaMar" ;
+    ns1:duration "2 uur zonder pauze" ;
+    ns1:startDate "2025-05-17T20:30",
+        "2025-05-18T14:30" .
+
+<https://delamar.nl/voorstellingen/chantal-tina> rdfs:label "Chantal & Tina | Aha-Erlebnissen | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-06-01T14:30",
+        "2025-06-01T19:00",
+        "2025-06-04T20:00" .
+
+<https://delamar.nl/voorstellingen/culturele-bagage-live> rdfs:label "Culturele bagage Live | DeLaMar" ;
+    ns1:startDate "2025-05-24T20:30" .
+
+<https://delamar.nl/voorstellingen/daniel-arends> rdfs:label "Daniël Arends | High Class Bitch + Had ik maar nooit zo aardig gedaan | DeLaMar" ;
+    ns1:duration "Beide shows 80 minuten zonder pauze" ;
+    ns1:startDate "2025-05-08T19:00",
+        "2025-05-08T21:30",
+        "2025-05-09T19:00",
+        "2025-05-09T21:30",
+        "2025-05-10T19:00",
+        "2025-05-10T21:30" .
+
+<https://delamar.nl/voorstellingen/de-aanslag> rdfs:label "De Aanslag | Naar de klassieker van Harry Mulisch | DeLaMar" ;
+    ns1:duration "1 uur 45 min. zonder pauze" ;
+    ns1:startDate "2025-04-30T20:30",
+        "2025-05-01T20:30",
+        "2025-05-02T20:30" .
+
+<https://delamar.nl/voorstellingen/de-gorgels> rdfs:label "De Gorgels | Naar het kinderboek van Jochem Myjer | DeLaMar" ;
+    ns1:duration "1 uur 15 min. zonder pauze" ;
+    ns1:startDate "2025-05-10T13:00",
+        "2025-05-10T16:00",
+        "2025-05-11T13:00",
+        "2025-05-11T16:00" .
+
+<https://delamar.nl/voorstellingen/de-neehoorn> rdfs:label "Familiemusical De NEEhoorn (7+) | Naar het populaire kinderboek | DeLaMar" ;
+    ns1:duration "1 uur 15 min. zonder pauze" ;
+    ns1:startDate "2025-05-31T16:00" .
+
+<https://delamar.nl/voorstellingen/de-theaterpubquiz> rdfs:label "De Theaterpubquiz | DeLaMar" ;
+    ns1:duration "2 uur incl. pauze" ;
+    ns1:startDate "2025-04-28T20:00" .
+
+<https://delamar.nl/voorstellingen/guido-weijers> rdfs:label "Guido Weijers | Momentum | DeLaMar" ;
+    ns1:startDate "2025-05-28T20:30" .
+
+<https://delamar.nl/voorstellingen/iris-rulkens> rdfs:label "Iris Rulkens | Hier is Iris live | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-05-29T20:30" .
+
+<https://delamar.nl/voorstellingen/jake-lambert> rdfs:label "Jake Lambert | The Sunshine Kid | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-05-25T20:00" .
+
+<https://delamar.nl/voorstellingen/jan-jaap-van-der-wal> rdfs:label "Jan Jaap van der Wal | Mijn vlakke land | DeLaMar" ;
+    ns1:duration "1 uur 35 min. zonder pauze" ;
+    ns1:startDate "2025-05-30T20:30" .
+
+<https://delamar.nl/voorstellingen/jij-wordt-gezien> rdfs:label "Jij wordt gezien | DeLaMar" ;
+    ns1:duration "1 uur zonder pauze" ;
+    ns1:startDate "2025-04-24T19:30" .
+
+<https://delamar.nl/voorstellingen/kor-hoebe> rdfs:label "Kor Hoebe | Kordaat | DeLaMar" ;
+    ns1:duration "1 uur 45 min. incl. pauze" ;
+    ns1:startDate "2025-04-20T20:00",
+        "2025-11-07T20:00",
+        "2025-11-08T20:00",
+        "2025-11-09T14:00" .
+
+<https://delamar.nl/voorstellingen/koud-vuur> rdfs:label "Koud Vuur | Een musical in wording | DeLaMar" ;
+    ns1:duration "1 uur 40 min. zonder pauze" ;
+    ns1:startDate "2025-04-19T20:00" .
+
+<https://delamar.nl/voorstellingen/malle-babbe> rdfs:label "Malle Babbe | De Rob de Nijs musical | DeLaMar" ;
+    ns1:duration "2 uur 40 min. incl. pauze" ;
+    ns1:startDate "2025-05-21T20:00",
+        "2025-05-22T20:00",
+        "2025-05-23T20:00",
+        "2025-05-24T15:00",
+        "2025-05-24T20:00",
+        "2025-05-25T14:00",
+        "2025-05-28T14:00",
+        "2025-05-29T20:00",
+        "2025-05-30T20:00",
+        "2025-05-31T15:00",
+        "2025-05-31T20:00",
+        "2025-06-01T14:00",
+        "2025-06-04T14:00",
+        "2025-06-05T20:00",
+        "2025-06-06T20:00",
+        "2025-06-07T15:00",
+        "2025-06-08T14:00",
+        "2025-06-09T14:00",
+        "2025-09-10T20:00",
+        "2025-09-11T20:00",
+        "2025-09-12T20:00",
+        "2025-09-13T15:00",
+        "2025-09-13T20:00",
+        "2025-09-14T14:00",
+        "2025-09-17T14:00",
+        "2025-09-18T20:00",
+        "2025-09-19T20:00",
+        "2025-09-20T15:00",
+        "2025-09-20T20:00",
+        "2025-09-21T14:00",
+        "2025-09-24T14:00",
+        "2025-09-25T20:00" .
+
+<https://delamar.nl/voorstellingen/nieuwe-buren> rdfs:label "Nieuwe Buren | Jan Kooijman, Edwin Jonker e.a. | DeLaMar" ;
+    ns1:duration "1 uur 45 min. zonder pauze" ;
+    ns1:startDate "2025-05-14T20:30",
+        "2025-05-15T20:30",
+        "2025-05-16T20:30" .
+
+<https://delamar.nl/voorstellingen/niki-jacobs> rdfs:label "Niki Jacobs | Getuigenissen | DeLaMar" ;
+    ns1:duration "1 uur 15 min. zonder pauze" ;
+    ns1:startDate "2025-05-04T15:00" .
+
+<https://delamar.nl/voorstellingen/pak-schaal-live> rdfs:label "Pak Schaal: Live | Freek Jansen, Arco Gnocchi e.a. | DeLaMar" ;
+    ns1:duration "1 uur 40 min. zonder pauze" ;
+    ns1:startDate "2025-05-20T20:30" .
+
+<https://delamar.nl/voorstellingen/rob-kemps> rdfs:label "Rob Kemps | Hemel op aarde | DeLaMar" ;
+    ns1:duration "1 uur 45 min. zonder pauze" ;
+    ns1:startDate "2025-04-24T20:00" .
+
+<https://delamar.nl/voorstellingen/rundfunk-schau> rdfs:label "Rundfunk | Schau | Boek nu! | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-04-19T20:30" .
+
+<https://delamar.nl/voorstellingen/show-tell> rdfs:label "Show & Tell | Codarts Muziektheater | DeLaMar" ;
+    ns1:duration "2 uur 25 min. incl. pauze" ;
+    ns1:startDate "2025-04-29T19:30" .
+
+<https://delamar.nl/voorstellingen/stef-bos> rdfs:label "Stef Bos | Kaartenhuis | DeLaMar" ;
+    ns1:duration "1 uur 50 min. zonder pauze" ;
+    ns1:startDate "2025-05-07T20:00" .
+
+<https://delamar.nl/voorstellingen/sven-ratzke> rdfs:label "Sven Ratzke | We could be heroes | DeLaMar" ;
+    ns1:duration "2 uur 5 min. incl. pauze" ;
+    ns1:startDate "2025-05-07T20:30",
+        "2025-05-08T20:30",
+        "2025-05-09T20:30" .
+
+<https://delamar.nl/voorstellingen/theo-maassen> rdfs:label "Theo Maassen | Onbegonnen Werk | DeLaMar" ;
+    ns1:duration "1 uur 30 min. zonder pauze" ;
+    ns1:startDate "2025-04-30T20:00",
+        "2025-05-01T20:00",
+        "2025-05-02T20:00" .
+
+<https://delamar.nl/voorstellingen/tineke-schouten-de-schouten-schoenen-aan> rdfs:label "Tineke Schouten | De Schouten schoenen aan | DeLaMar" ;
+    ns1:duration "2 uur zonder pauze" ;
+    ns1:startDate "2025-05-15T20:00",
+        "2025-05-16T20:00" .
+
+<https://delamar.nl/voorstellingen/trompettist-in-auschwitz> rdfs:label "Trompettist in Auschwitz | Thomas Cammaert en Soy Kroon | DeLaMar" ;
+    ns1:duration "1 uur 15 min. zonder pauze" ;
+    ns1:startDate "2025-05-03T20:30",
+        "2025-05-04T14:30" .
+
+<https://delamar.nl/voorstellingen/zing-mee-met-annie-mg> rdfs:label "Zing mee met Annie M.G. | De leukste liedjes van Annie met orkest | DeLaMar" ;
+    ns1:duration "1 uur 10 min. zonder pauze" ;
+    ns1:startDate "2025-05-11T14:00" .
+

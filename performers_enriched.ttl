@@ -1,0 +1,103 @@
+@prefix ex: <http://example.org/performer/> .
+
+<http://www.wikidata.org/entity/Q105848> a ex:Performer ;
+    ex:birthDate "1977-01-01T00:00:00Z" ;
+    ex:citizenship "Germany" ;
+    ex:description "German singer" ;
+    ex:name "Sven Ratzke" ;
+    ex:occupation "singer" ;
+    ex:website <http://www.sven-ratzke.com> .
+
+<http://www.wikidata.org/entity/Q1179707> a ex:Performer ;
+    ex:description "Wikimedia disambiguation page" ;
+    ex:name "De Aanslag" .
+
+<http://www.wikidata.org/entity/Q1989503> a ex:Performer ;
+    ex:birthDate "1966-12-08T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch actor" ;
+    ex:name "Theo Maassen" ;
+    ex:occupation "actor" ;
+    ex:website <http://www.theomaassen.nl/> .
+
+<http://www.wikidata.org/entity/Q2017189> a ex:Performer ;
+    ex:birthDate "1954-06-12T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch cabaret artist" ;
+    ex:name "Tineke Schouten" ;
+    ex:occupation "cabaret performer" .
+
+<http://www.wikidata.org/entity/Q2342332> a ex:Performer ;
+    ex:birthDate "1977-07-30T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch cabaret artist" ;
+    ex:name "Guido Weijers" ;
+    ex:occupation "cabaret performer" .
+
+<http://www.wikidata.org/entity/Q275711> a ex:Performer ;
+    ex:birthDate "1975-06-16T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch singer-actor" ;
+    ex:name "Willemijn Verkaik" ;
+    ex:occupation "actor" ;
+    ex:website <http://www.willemijnverkaik.nl/> .
+
+<http://www.wikidata.org/entity/Q28152248> a ex:Performer ;
+    ex:description "tv show aired between 2015 and 2016" ;
+    ex:name "Rundfunk" ;
+    ex:website <https://npo.nl/npo3/rundfunk/KN_1680026> .
+
+<http://www.wikidata.org/entity/Q2858115> a ex:Performer ;
+    ex:birthDate "1979-10-15T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch cabaret artist" ;
+    ex:name "Daniël Arends" ;
+    ex:occupation "cabaret performer" ;
+    ex:website <http://www.danielarends.nl> .
+
+<http://www.wikidata.org/entity/Q474198> a ex:Performer ;
+    ex:description "painting by Frans Hals (Gemäldegalerie Berlin)" ;
+    ex:name "Malle Babbe" .
+
+<http://www.wikidata.org/entity/Q547669> a ex:Performer ;
+    ex:birthDate "1961-07-12T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch singer" ;
+    ex:name "Stef Bos" ;
+    ex:occupation "actor" ;
+    ex:website <https://www.stefbos.nl/> .
+
+<http://www.wikidata.org/entity/Q62352062> a ex:Performer ;
+    ex:birthDate "1985-09-13T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "singer, writer form the Netherlands" ;
+    ex:name "Rob Kemps" ;
+    ex:occupation "actor" ;
+    ex:website <https://www.robkemps.nl/> .
+
+<http://www.wikidata.org/entity/Q62919820> a ex:Performer ;
+    ex:birthDate "1978-01-01T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch singer of Jiddish songs and folk music" ;
+    ex:name "Niki Jacobs" ;
+    ex:occupation "singer" ;
+    ex:website <https://www.nikijacobs,nl> .
+
+<http://www.wikidata.org/entity/Q7502921> a ex:Performer ;
+    ex:description "Philippine television show" ;
+    ex:name "Show & Tell" .
+
+<http://www.wikidata.org/entity/Q76362928> a ex:Performer ;
+    ex:citizenship "United Kingdom" ;
+    ex:description "Labour Party candidate in the 2019 United Kingdom General Election" ;
+    ex:name "Jake Lambert" ;
+    ex:occupation "politician" .
+
+<http://www.wikidata.org/entity/Q983255> a ex:Performer ;
+    ex:birthDate "1944-08-30T00:00:00Z" ;
+    ex:citizenship "Kingdom of the Netherlands" ;
+    ex:description "Dutch comedian, author and artist" ;
+    ex:name "Freek de Jonge" ;
+    ex:occupation "actor" ;
+    ex:website <http://www.freekdejonge.nl/> .
+
