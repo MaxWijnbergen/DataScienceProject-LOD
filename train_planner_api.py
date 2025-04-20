@@ -15,7 +15,7 @@ def calculate_duration(dep_time, arr_time):
 def request_trip(departure, arrival, travel_date, departure_time, search_for_departure=True):
     url = "https://gateway.apiportal.ns.nl/reisinformatie-api/api/v3/trips"
     headers = {
-        "Ocp-Apim-Subscription-Key": "d0c1faee7b7f460c8a15ee5177e379b9"
+        "Ocp-Apim-Subscription-Key": "Personal-API-Key"
     }
 
     params = {
